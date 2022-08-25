@@ -45,6 +45,7 @@ sub new {
 	if ($EVAL_ERROR) {
 		err 'Cannot load Schema module.',
 			'Module name', $self->{'_schema_module_name'},
+			'Error', $EVAL_ERROR,
 		;
 	}
 
