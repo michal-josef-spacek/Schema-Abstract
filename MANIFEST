@@ -1,5 +1,6 @@
 Abstract.pm
 Changes
+examples/list_versions.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
