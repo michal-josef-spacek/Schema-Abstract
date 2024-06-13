@@ -1,7 +1,6 @@
 TODO
 ====
 3. Add example with DBIx::Class::Schema usage.
-4. Improve tests.
 5.
 
 Applied
@@ -11,3 +10,6 @@ OK [20220825] skim
 
 1. Tests.
 OK [20220827] skim
+
+4. Improve tests.
+OK [20240613] skim
