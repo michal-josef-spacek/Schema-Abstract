@@ -118,8 +118,6 @@ This is abstract class for versioned schemas modules.
 
 Constructor.
 
-Returns instance of object.
-
 =over 8
 
 =item * C<version>
@@ -129,6 +127,8 @@ Selected schema version.
 Default value is last version.
 
 =back
+
+Returns instance of object.
 
 =head2 C<list_versions>
 
